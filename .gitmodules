@@ -1,0 +1,3 @@
+[submodule "droidsafe-src"]
+	path = droidsafe-src
+	url = https://github.com/MIT-PAC/droidsafe-src
